@@ -1,0 +1,8 @@
+prefix=/home/pranav/pranav_workspace/devel
+
+Name: taskround
+Description: Description of taskround
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
